@@ -48,4 +48,4 @@ import-summary.txt
 
 # Nix
 nix/deps.json.old
-*result
+result
